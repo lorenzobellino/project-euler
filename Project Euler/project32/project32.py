@@ -22,15 +22,3 @@ for i in range(maxN):
                             tot.append(d)
                             
 print(sum(set(tot)))
-    # for j in range(1000):
-    #     strj = str(i).split() 
-    #     if(len(strj) != len(set(strj))):
-    #         break
-    #     strc = stri+strj
-    #     if(len(strc) != len(set(strc))):
-    #         break
-    #     else:
-    #         d = i*j
-    #         strd = str(d).split()
-    #         if(len(strd) == len(set(strd))):
-    #             print(stri+strj+strd)
