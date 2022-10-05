@@ -1,7 +1,4 @@
-
-import java.lang.StringBuffer;
 import java.math.BigInteger;
-import java.util.Arrays;
 
 
 public class project50 {
@@ -13,7 +10,7 @@ public class project50 {
 		int i,j,k=0;
 		int lunghezza=0;
 		BigInteger n;
-		long sj = 20;
+		//long sj = 20;
 		BigInteger ll;
 		BigInteger maxsomma = new BigInteger("1000000");
 		/*for(k=1;k<prime.length;k++) {

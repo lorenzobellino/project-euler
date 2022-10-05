@@ -5,7 +5,7 @@ public class project29 {
 
 	public static void main(String[] args) {
 		int i,j;
-		int k=0,z=0;
+		int k=0;
 		BigInteger p ;
 		BigInteger result;
 		BigInteger []num;
