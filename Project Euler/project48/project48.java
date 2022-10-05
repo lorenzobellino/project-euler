@@ -1,9 +1,8 @@
-package Prog29;
 
 import java.lang.StringBuffer;
 import java.math.BigInteger;
 
-public class pot {
+public class project48 {
 
 	public static void main(String[] args) {
 		

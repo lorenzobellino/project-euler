@@ -1,8 +1,6 @@
-package Prog29;
+import java.lang.StringBuffer;
 
-import java.lang.StringBuffer;;
-
-public class pot {
+public class project36 {
 
 	public static void main(String[] args) {
 		

@@ -1,7 +1,7 @@
 
 import java.math.BigInteger;
 
-public class pot {
+public class project29 {
 
 	public static void main(String[] args) {
 		int i,j;

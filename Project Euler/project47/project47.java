@@ -1,8 +1,6 @@
-package Prog29;
-
 import java.util.Arrays;
 
-public class pot {
+public class project47 {
 
 	public static void main(String[] args) {
 		int i,a=0,b = 0;

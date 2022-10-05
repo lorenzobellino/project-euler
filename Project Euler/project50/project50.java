@@ -1,11 +1,10 @@
-package Prog29;
 
 import java.lang.StringBuffer;
 import java.math.BigInteger;
 import java.util.Arrays;
 
 
-public class pot {
+public class project50 {
 
 	public static void main(String[] args) {
 	
